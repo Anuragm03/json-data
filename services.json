@@ -1,0 +1,76 @@
+[
+  {
+    "tag": "services",
+    "patterns": [
+      "what are the services Bourntec Offers?",
+      "Could describe your services?",
+      "what are the service your company offer?",
+      "your company provide services in which areas?",
+      " what specific services Bourntec Provide",
+      "Could you tell me about Bourntec's service offerings and their areas of expertise?",
+      "I'm interested in Bourntec's services. Can you share information about their service portfolio?",
+      "What industries does Bourntec cater to, and what services do they offer for each?",
+      "What sets Bourntec apart from other IT service providers in terms of their services?",
+      "What does Bourntec offer for their IT services?",
+      "Do they provide ongoing support and maintenance for the services they deliver?",
+      "What industries or sectors does Bourntec specialize in when delivering their services?",
+      "What industries or sectors does Bourntec Company specialize in serving?",
+      "what sectors your company specialize in serving?",
+      "Can you provide information about the pricing structure or models for Bourntec Company's services?",
+      "What sets Bourntec Company apart from its competitors in the industry in terms of services and client satisfaction?"
+    ]
+  },
+  {
+    "responses": [
+      "Bourntec provides  Oracle ,Microsoft,Analytics,Data science , AI ,Cloud technologies, Govt IT sevices. For More details Please visit our official site"
+    ]
+  },
+  {
+    "tag": "AWS",
+    "patterns": [
+      "What AWS  services does Bourntec offer?",
+      "I'm interested in AWS services. Can you provide details on Bourntec's AWS offerings?",
+      "Do you have AWS consulting or managed services? Can you tell me about them?",
+      "Can you explain how Bourntec can help with AWS cloud migration and management?",
+      "What AWS services does Bourntec have, and how can they support my cloud needs?",
+      "Could you tell me more about the AWS services provided by Bourntec Company?"
+    ]
+  },
+  {
+    "responses": []
+  },
+  {
+    "tag": "Oracle",
+    "patterns": [
+      "Tell me about Bourntec's Oracle services.",
+      "I'm interested in Oracle services. What does Bourntec offer in this area?",
+      "Can you provide details about the Oracle  services provided by Bourntec?",
+      "What Oracle-related services are available at Bourntec Company?",
+      "Do you have any expertise in Oracle Services?",
+      "What services do you have for Oracle?",
+      "I'm looking for Oracle consulting. Can you tell me about Bourntec's Oracle consulting services?",
+      "What is Bourntec's role in the Oracle ecosystem? Tell me about your Oracle services."
+    ]
+  },
+  {
+    "responses": []
+  },
+  {
+    "tag": "AI",
+    "patterns": [
+      "I'm interested in your AI services. Can you tell me more about what Bourntec offers in that area?",
+      "What AI solutions do you provide at Bourntec Company?",
+      "Do you have data science and analytics services? Can you explain how they work?",
+      "Tell me about Bourntec's expertise in data science and analytics.",
+      "How does Bourntec Company support businesses with AI and data analytics?",
+      "What kind of AI projects has Bourntec been involved in?",
+      "Can you provide details on your data science and analytics offerings?",
+      "I'd like to learn more about your data analytics services. What can you share?",
+      "Do you offer AI consulting or development services at Bourntec?",
+      "What is the scope of your AI, data science, and analytics services?"
+    ]
+  },
+  {
+    "responses": []
+  }
+]
